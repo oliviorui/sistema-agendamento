@@ -38,7 +38,7 @@ O projeto simula um cenário real de gestão de agendamentos, priorizando organi
 ## 📂 Estrutura do Projeto
 
 ```bash
-sistema_agendamento/
+sistema-agendamento/
 │
 ├── database/        # Scripts ou estrutura do banco de dados
 ├── public/          # Arquivos públicos (index.php, assets, etc.)
