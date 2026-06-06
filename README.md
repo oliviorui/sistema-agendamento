@@ -105,19 +105,6 @@ Este projeto tem como objetivo:
 
 ---
 
-## 🔓 Visibilidade do Repositório
-
-**Status recomendado:** **Público**
-
-**Justificativa:**
-- Não contém chaves sensíveis
-- Não expõe variáveis de ambiente críticas
-- Código organizado e legível
-- Boa demonstração de conhecimento em PHP e MVC
-- Adequado para portfólio profissional
-
----
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença **MIT**.
